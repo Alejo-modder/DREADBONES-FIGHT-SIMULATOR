@@ -6,7 +6,7 @@ let heart = {
   y: 200,
   size: 15,
   color: "red",
-  speed: 4
+  speed: 2
 };
 
 let keys = {};
